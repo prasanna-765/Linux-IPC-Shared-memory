@@ -1,5 +1,5 @@
-## Name : SHYAM SUJIN U
-## Reg no : 212223040201
+## Name : PRASANNA A
+## Reg no : 212223220078
 # Linux-IPC-Shared-memory
 Ex06-Linux IPC-Shared-memory
 
@@ -59,3 +59,4 @@ int main()
 
 # RESULT:
 The program is executed successfully.
+
